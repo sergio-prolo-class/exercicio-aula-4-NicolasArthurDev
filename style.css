@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 25px;
+    padding: 40px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header img {
+    border-radius: 50%;
+    border: 5px solid white;
+    width: 200px;
+
+}
+
+.center {
+    text-align: center;
+}
